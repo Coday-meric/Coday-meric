@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 45%" />
 </div> 
 
-### <div align="center">I'm Aymeric, a freelance developer since 2020 👨‍💻 Student at 42 🚀</div>  
+### <div align="center">I'm Aymeric, a freelance developer since 2020 👨‍💻 And student at 42 🚀</div>  
   
 
 - 🔭 I’m currently working on my [42 Cursus](https://github.com/Coday-meric/42)  
