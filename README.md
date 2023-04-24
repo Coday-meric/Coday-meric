@@ -1,8 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
-
 ### <div align="center">I'm Aymeric, a freelance developer since 2020 👨‍💻 Student at 42 🚀</div>  
   
 
@@ -104,27 +102,4 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coday-meric&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Coday-meric&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<br/>
