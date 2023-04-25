@@ -5,8 +5,9 @@
 ### <div align="center">I'm Aymeric, a freelance developer since 2020 👨‍💻 And student at 42 🚀</div>  
   
 
-- 🔭 I’m currently working on my [42 Cursus](https://github.com/Coday-meric/42)  
-  
+- 🔭 I’m currently working on my [42 Cursus](https://github.com/Coday-meric/42)
+
+[![amaisonn's 42 stats](https://badge42.vercel.app/api/v2/clgw3io9u004908jp2gc8dja3/stats?cursusId=21&coalitionId=319)](https://github.com/JaeSeoKim/badge42)  
 
 - 🌱 I’m currently learning Docker and Flutter  
   
