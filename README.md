@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 45%" />
-</div> 
 
 ### <div align="center">I'm Aymeric, a freelance developer since 2020 👨‍💻 And student at 42 🚀</div>  
   
