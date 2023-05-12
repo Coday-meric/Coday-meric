@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my [42 Cursus](https://github.com/Coday-meric/42)
 
-[![amaisonn's 42 stats](https://badge42.vercel.app/api/v2/clgw3io9u004908jp2gc8dja3/stats?cursusId=21&coalitionId=319)](https://github.com/JaeSeoKim/badge42)  
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clgw3io9u004908jp2gc8dja3/stats?cursusId=21&coalitionId=319" alt="amaisonn's 42 stats" align="center"/></a>
 
 - 🌱 I’m currently learning Docker and Flutter  
   
