@@ -1,17 +1,13 @@
 
-### <div align="center">I'm Aymeric, a freelance developer since 2020 👨‍💻 And student at 42 🚀</div>  
+### <div align="center">I'm Aymeric, a freelance developer since 2020 👨‍💻, student at 42 🚀 and cofunder of https://lobbi.fr and https://38bis.app</div>  
   
 
-- 🔭 I’m currently working on my [42 Cursus](https://github.com/Coday-meric/42)
+- 🔭 I’m currently working on Lobbi
 
-<div align="center">
-<a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clp5ewp94000601t6olncbq6z/stats?cursusId=21&coalitionId=319" alt="amaisonn's 42 stats" /></a>
-</div>
-
-- 🌱 I’m currently learning Docker and Flutter  
+- 🌱 I’m currently learning Kubernetes  
   
 
-- ❓ Ask me about anything related to Angular  
+- ❓ Ask me about anything related to NestJS  
   
 
 - 🏉  Rugby >>> Dev, sorry ;)  
