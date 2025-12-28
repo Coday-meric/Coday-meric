@@ -1,5 +1,5 @@
 
-### <div align="center">I'm Aymeric, a freelance developer since 2020 👨‍💻, student at 42 🚀 and cofunder of https://lobbi.fr and https://38bis.app</div>  
+### <div align="center">I'm Aymeric, a freelance developer since 2020 👨‍💻, student at 42 🚀 and co-founder of https://lobbi.fr and https://38bis.app</div>  
   
 
 - 🔭 I’m currently working on Lobbi
